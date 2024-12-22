@@ -1,0 +1,7 @@
+1 3 5 7 9 10
+7 14 30 180 364 3640 7286
+fccaf
+have you ever seen anything?
+-1  (2 whitespace di akhir)
+900000009
+5_c_3_1
